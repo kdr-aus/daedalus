@@ -9,10 +9,10 @@
 
 ## `rust`
 `daedalus` is powered by [`rust`], a modern systems programming language.
-There is not need to install beforehand as `daedalus` can install `rust` for you, however it is recommended.
+There is no requirement to install beforehand as `daedalus` can install `rust` for you, however it _is_ recommended.
 
 ## Microsoft Visual C++ Build Tools
-`rust` requires Microsoft Visual C++ Build Tools for Windows. The tooling can be [downloaded
+`rust` requires Microsoft Visual C++ Build Tools for Windows. **The build tools need to be installed before installation of `rust`.** The tooling can be [downloaded
 here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019).
 **Please include the Windows 10 SDK as part of the installation**. For more information see [here](https://www.rust-lang.org/tools/install).
 
