@@ -23,5 +23,5 @@ here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studi
 `daedalus` has support for [`vscode`], but does not require it.
 
 [`rust`]: https://www.rust-lang.org/
-[Firefox]: (https://www.mozilla.org/en-US/firefox/new/)
+[Firefox]: https://www.mozilla.org/en-US/firefox/new/
 [`vscode`]: https://code.visualstudio.com/
