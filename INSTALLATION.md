@@ -16,6 +16,8 @@ There is no requirement to install beforehand as `daedalus` can install `rust` f
 here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019).
 **Please include the Windows 10 SDK as part of the installation**. For more information see [here](https://www.rust-lang.org/tools/install).
 
+![Build Tools Location](./assets/ms-build-tools-location.png)
+
 ## Modern Browser
 `daedalus` leverages modern web technologies, and may not render properly on older browsers. [Firefox] is the recommended browser to use.
 
