@@ -1,29 +1,33 @@
 # Installation
 
 ## Requirements
-`daedalus` requires the following dependencies:
-- [`rust`]
-- Microsoft [Visual C++ Build Tools](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
-- A modern browser ([Firefox] or [Google Chrome](https://www.google.com/chrome/index.html))
-- High quality text editor
+`daedalus` does not require any dependencies to run, however for an optimal experience
+using `daedalus`, it is recommended that:
+1. A high quality text editor is installed. `daedalus` has support for [`vscode`].
+2. [Firefox] or [Google Chrome] is used as the rendering browser.
 
-## `rust`
-`daedalus` is powered by [`rust`], a modern systems programming language.
-There is no requirement to install beforehand as `daedalus` can install `rust` for you, however it _is_ recommended.
+## Getting started
+First download the `zip` file of the [latest
+release](https://github.com/kdr-aus/daedalus/releases). It is recommended to use a
+`stable` release. Extract the contents of the archive and run the executeable
+`daedalus-bin.exe`. If Windows Smart Screen is enabled you may be blocked from executing
+the file. Please contact your system administrator to allow you to run the software.
 
-## Microsoft Visual C++ Build Tools
+## Optional Features
+`daedalus` has an optional REPL which can be used to extend and augment the base
+functionality.
+Learning to use the features can greatly enhance `daedalus`' feature set. To enable the
+optional features, an installation of [`rust`] is required, along with a dependency for Microsoft's
+[Visual C++ Build Tools.](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
+
+### Microsoft Visual C++ Build Tools
 `rust` requires Microsoft Visual C++ Build Tools for Windows. **The build tools need to be installed before installation of `rust`.** The tooling can be [downloaded
 here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019).
 **Please include the Windows 10 SDK as part of the installation**. For more information see [here](https://www.rust-lang.org/tools/install).
 
 ![Build Tools Location](./assets/ms-build-tools-location.png)
 
-## Modern Browser
-`daedalus` leverages modern web technologies, and may not render properly on older browsers. [Firefox] is the recommended browser to use.
-
-## High quality text editor
-`daedalus` has support for [`vscode`], but does not require it.
-
-[`rust`]: https://www.rust-lang.org/
-[Firefox]: https://www.mozilla.org/en-US/firefox/new/
 [`vscode`]: https://code.visualstudio.com/
+[Firefox]: https://www.mozilla.org/en-US/firefox/new/
+[Google Chrome]: https://www.google.com/chrome/
+[`rust`]: https://www.rust-lang.org/
