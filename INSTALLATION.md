@@ -12,6 +12,7 @@ release](https://github.com/kdr-aus/daedalus/releases). It is recommended to use
 `stable` release. Extract the contents of the archive and run the executeable
 `daedalus-bin.exe`. If Windows Smart Screen is enabled you may be blocked from executing
 the file. Please contact your system administrator to allow you to run the software.
+Once `daedalus` is running, please refer to [the Book](https://kdr-aus.github.io/daedalus/) for usage guides.
 
 ## Optional Features
 `daedalus` has an optional REPL which can be used to extend and augment the base
