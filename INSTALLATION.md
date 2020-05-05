@@ -26,7 +26,7 @@ optional features, an installation of [`rust`] is required, along with a depende
 here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019).
 **Please include the Windows 10 SDK as part of the installation**. For more information see [here](https://www.rust-lang.org/tools/install).
 
-![Build Tools Location](./assets/ms-build-tools-location.png)
+[![Build Tools Location](./assets/ms-build-tools-location.png)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
 
 [`vscode`]: https://code.visualstudio.com/
 [Firefox]: https://www.mozilla.org/en-US/firefox/new/
