@@ -1,14 +1,14 @@
 ---
 name: task
 about: A consolidated job to be done.
-title: "[TASK]"
+title: "[TASK] "
 labels: ''
 assignees: ''
 projects: 'kdr-aus/projects/Daedalus-Dev'
 
 ---
 
-# Goal
+## Goal
 
-# Aspects to Develop
+## Aspects to Develop
 - [ ]
