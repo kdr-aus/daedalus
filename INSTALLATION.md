@@ -19,15 +19,14 @@ Once `daedalus` is running, please refer to [the Book](https://kdr-aus.github.io
 functionality.
 Learning to use the features can greatly enhance `daedalus`' feature set. To enable the
 optional features, an installation of [`rust`] is required, along with a dependency for Microsoft's
-[Visual C++ Build Tools.](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
+[Visual C++ Build Tools.][build-tools]
 
 ### Microsoft Visual C++ Build Tools
 `rust` requires Microsoft Visual C++ Build Tools for Windows. **The build tools need to be installed before installation of `rust`.** The tooling can be [downloaded
-here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019).
+here][build-tools].
 **Please include the Windows 10 SDK as part of the installation**. For more information see [here](https://www.rust-lang.org/tools/install).
 
-[![Build Tools Location](./assets/ms-build-tools-location.png)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
-
+[build-tools]: https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
 [`vscode`]: https://code.visualstudio.com/
 [Firefox]: https://www.mozilla.org/en-US/firefox/new/
 [Google Chrome]: https://www.google.com/chrome/
